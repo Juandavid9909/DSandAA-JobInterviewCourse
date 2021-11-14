@@ -1,0 +1,9 @@
+package com.ds.hash;
+
+public class Hast {
+
+	public Hast() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

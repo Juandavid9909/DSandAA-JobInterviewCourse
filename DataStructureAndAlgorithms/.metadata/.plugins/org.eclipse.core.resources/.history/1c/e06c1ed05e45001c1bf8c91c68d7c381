@@ -1,0 +1,9 @@
+package com.ds.hash;
+
+public class HashTableArray {
+
+	public HashTableArray() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

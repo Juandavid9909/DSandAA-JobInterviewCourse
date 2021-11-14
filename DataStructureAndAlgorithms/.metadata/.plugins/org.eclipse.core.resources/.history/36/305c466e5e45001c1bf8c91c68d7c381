@@ -1,0 +1,11 @@
+package com.ds.hash;
+
+public class Entry {
+	int key;
+	Object value;
+	Entity
+
+	public Entry() {
+		// TODO Auto-generated constructor stub
+	}
+}

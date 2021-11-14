@@ -1,0 +1,12 @@
+package com.ds.hash;
+
+public class HashTableArray<T> {
+	Entry[] arrayHash;
+	int size;
+
+	public HashTableArray(int size) {
+		// TODO Auto-generated constructor stub
+		this.size = size;
+		arrayHash = new Entry[size];
+	}
+}
