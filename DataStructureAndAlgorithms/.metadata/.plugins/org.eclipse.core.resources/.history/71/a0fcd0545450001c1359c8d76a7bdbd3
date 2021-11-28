@@ -1,0 +1,13 @@
+package com.ds.hash;
+
+public class StackArray {
+	Object[] ArrayStack;
+	int size;
+
+	public StackArray(int size) {
+		this.size = size;
+		ArrayStack = new Object[this.size];
+		top = -1;
+	}
+
+}

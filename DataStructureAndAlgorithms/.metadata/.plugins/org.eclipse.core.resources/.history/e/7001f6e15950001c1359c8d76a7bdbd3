@@ -1,0 +1,14 @@
+package com.problem8;
+
+import java.util.ArrayList;
+import java.util.Stack;
+
+public class StairCaseDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int step = 4;
+		Stack<Stair> stair = new Stack<Stair>();
+		stair.add(new Stair(0, new ArrayList<Integer>()));
+	}
+}

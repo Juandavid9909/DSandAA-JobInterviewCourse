@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;StackArray.java&apos; to &apos;DSAUdemy/src/com.ds&apos;&#x0A;- Original project: &apos;DSAUdemy&apos;&#x0A;- Destination element: &apos;DSAUdemy/src/com.ds&apos;&#x0A;- Original element: &apos;com.ds.hash.StackArray.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.ds" element1="/src&lt;com.ds.hash{StackArray.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1638108710037" units="1" version="1.0"/>
+</session>

@@ -1,6 +1,6 @@
-package com.problem27;
+package com.ds;
 
-public class NumberUnique {
+public class StackArrayDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

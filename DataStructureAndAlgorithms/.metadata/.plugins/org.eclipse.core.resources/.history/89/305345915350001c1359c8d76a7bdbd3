@@ -1,0 +1,9 @@
+package com.ds.hash;
+
+public class StackArray {
+
+	public StackArray() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

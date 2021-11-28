@@ -1,0 +1,9 @@
+package com.problem8;
+
+public class Stair {
+
+	public Stair() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
